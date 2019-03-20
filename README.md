@@ -1,5 +1,5 @@
 # Surface-Treatment-Filling-Form
-GUI for Univesity project greated using QTCreator and C++
+GUI for Univesity project greated using QTCreator and C++. Uses Nlohmann JSON interaction
 # Task
 Элементы интерфейса:
 - надпись про текущую поверхность
